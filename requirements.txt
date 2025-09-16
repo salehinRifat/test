@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openai
+google-generativeai
+PyPDF2
+yt-dlp
+requests
+python-dotenv
